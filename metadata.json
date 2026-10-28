@@ -1,0 +1,7 @@
+{
+  "name": "IMovies - Cinema Booking & Showtime Platform",
+  "description": "Browse blockbuster movies, select showtimes, reserve seats with real-time tracking, and enjoy seamless digital cinema ticket booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
